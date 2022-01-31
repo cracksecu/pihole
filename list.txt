@@ -6,7 +6,7 @@
 0.0.0.0 www.anime-planet.com
 0.0.0.0 www.ateamid.com
 0.0.0.0 www.fandom.com
-0.0.0.0 www.chrunchyroll.com
+0.0.0.0 www.crunchyroll.com
 0.0.0.0 www.inflationbreedinghoax.com
 0.0.0.0 www.sh.st
 0.0.0.0 www.proxer.me
@@ -47,7 +47,7 @@
 0.0.0.0 anime-planet.com
 0.0.0.0 ateamid.com
 0.0.0.0 fandom.com
-0.0.0.0 chrunchyroll.com
+0.0.0.0 crunchyroll.com
 0.0.0.0 inflationbreedinghoax.com
 0.0.0.0 sh.st
 0.0.0.0 proxer.me
