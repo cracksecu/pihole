@@ -85,6 +85,47 @@
 0.0.0.0 batotoo.com
 0.0.0.0 animemark.com
 0.0.0.0 baidu.com
+anime-planet.com
+ateamid.com
+fandom.com
+chrunchyroll.com
+inflationbreedinghoax.com
+sh.st
+proxer.me
+myanimelist.net
+chessmoba.us
+mostraveller.com
+miniclip.com
+ttnrd.com
+mdsyzz.info
+flirt.com
+1stkissmanga.com
+1stkmg.com
+gkgojxjucutvnt.com
+hbtzzlcxfijk.com
+manhuascan.com
+gamepix.com
+tubia.com
+gamepix.com
+tubia.com
+animemotivation.com
+webtoons.com
+me.me
+wpad.
+animeepisode.com
+thegamer.com
+wakanim.tv
+archiveofourown.org
+quotev.com
+archiveofourown.com
+fandom.com
+mrguider.org
+mangadex.org
+asurascans.com
+mangago.me
+batotoo.com
+animemark.com
+baidu.com
 ######################################
 ## ENDE
 ######################################
