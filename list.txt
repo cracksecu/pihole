@@ -27,7 +27,6 @@
 0.0.0.0 www.gamepix.com
 0.0.0.0 www.tubia.com
 0.0.0.0 www.animemotivation.com
-0.0.0.0 www.webtoons.com
 0.0.0.0 www.me.me
 0.0.0.0 www.wpad.
 0.0.0.0 www.animeepisode.com
@@ -68,7 +67,6 @@
 0.0.0.0 gamepix.com
 0.0.0.0 tubia.com
 0.0.0.0 animemotivation.com
-0.0.0.0 webtoons.com
 0.0.0.0 me.me
 0.0.0.0 wpad.
 0.0.0.0 animeepisode.com
@@ -109,7 +107,6 @@ tubia.com
 gamepix.com
 tubia.com
 animemotivation.com
-webtoons.com
 me.me
 wpad.
 animeepisode.com
@@ -126,16 +123,6 @@ mangago.me
 batotoo.com
 animemark.com
 baidu.com
-0.0.0.0 webtoons.com
-0.0.0.0 webtoons.com.akadns.net
-0.0.0.0 https://www.webtoons.com
-0.0.0.0 www.webtoons.com
-0.0.0.0 webtoons.net
-0.0.0.0 webtoons.com/de/
-0.0.0.0 webtoons.com
-0.0.0.0 webtoons.com/de/gdpr/ageGate
-0.0.0.0 www.webtoons.com.blitz-one.local
-0.0.0.0 webtoons.com.blitz-one.local
 0.0.0.0  youporn.com
 0.0.0.0 www.youporn.com
 0.0.0.0 kbhgames.com
@@ -175,16 +162,6 @@ baidu.com
 0.0.0.0 a.poki.com
 0.0.0.0 gamewith.net
 0.0.0.0 img.gamewith.net
-0.0.0.0 www.webtoons.com
-0.0.0.0 www.webtoons.com.akadns.net
-0.0.0.0 www.https://www.webtoons.com
-0.0.0.0 www.www.webtoons.com
-0.0.0.0 www.webtoons.net
-0.0.0.0 www.webtoons.com/de/
-0.0.0.0 www.webtoons.com
-0.0.0.0 www.webtoons.com/de/gdpr/ageGate
-0.0.0.0 www.www.webtoons.com.blitz-one.local
-0.0.0.0 www.webtoons.com.blitz-one.local
 0.0.0.0 www. youporn.com
 0.0.0.0 www.www.youporn.com
 0.0.0.0 www.kbhgames.com
