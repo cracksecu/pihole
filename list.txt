@@ -126,8 +126,6 @@ baidu.com
 0.0.0.0  youporn.com
 0.0.0.0 www.youporn.com
 0.0.0.0 kbhgames.com
-0.0.0.0 one--with--the--webtoons-tumblr-com.cdn.ampproject.org
-0.0.0.0 webtoons.de
 0.0.0.0 kbhgames.com
 0.0.0.0 img.kbhgames.com
 0.0.0.0 img.koreatimes.co.kr
@@ -165,8 +163,6 @@ baidu.com
 0.0.0.0 www. youporn.com
 0.0.0.0 www.www.youporn.com
 0.0.0.0 www.kbhgames.com
-0.0.0.0 www.one--with--the--webtoons-tumblr-com.cdn.ampproject.org
-0.0.0.0 www.webtoons.de
 0.0.0.0 www.kbhgames.com
 0.0.0.0 www.img.kbhgames.com
 0.0.0.0 www.img.koreatimes.co.kr
