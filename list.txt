@@ -6,7 +6,6 @@
 0.0.0.0 www.anime-planet.com
 0.0.0.0 www.ateamid.com
 0.0.0.0 www.fandom.com
-0.0.0.0 www.crunchyroll.com
 0.0.0.0 www.inflationbreedinghoax.com
 0.0.0.0 www.sh.st
 0.0.0.0 www.proxer.me
@@ -86,7 +85,6 @@
 anime-planet.com
 ateamid.com
 fandom.com
-chrunchyroll.com
 inflationbreedinghoax.com
 sh.st
 proxer.me
@@ -123,7 +121,7 @@ mangago.me
 batotoo.com
 animemark.com
 baidu.com
-0.0.0.0  youporn.com
+0.0.0.0 youporn.com
 0.0.0.0 www.youporn.com
 0.0.0.0 kbhgames.com
 0.0.0.0 kbhgames.com
