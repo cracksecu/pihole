@@ -45,7 +45,6 @@
 0.0.0.0 anime-planet.com
 0.0.0.0 ateamid.com
 0.0.0.0 fandom.com
-0.0.0.0 crunchyroll.com
 0.0.0.0 inflationbreedinghoax.com
 0.0.0.0 sh.st
 0.0.0.0 proxer.me
