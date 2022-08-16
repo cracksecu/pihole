@@ -1,33 +1,67 @@
-https://static.media.net
-https://media.net
-https://adservetx.media.net
-https://doubleclick.net/
-https://ad.doubleclick.net/
-https://static.doubleclick.net
-https://m.doubleclick.net
-https://mediavisor.doubleclick.net
-https://media.fastclick.net/
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonclix.com
-https://google-analytics.com
-https://ssl.google-analytics.com
-https://hotjar.com
-https://static.hotjar.com
-https://a.mouseflow.com
-https://freshmarketer.com/
-https://cdn.luckyorange.com
-https://w1.luckyorange.com
-https://stats.wp.com
-https://api.bugsnag.com
-https://app.bugsnag.com
-https://browser.sentry-cdn.com
-https://app.getsentry.com
-https://advertising.twitter.com
-https://analytics.pointdrive.linkedin.com
-https://widgets.pinterest.com
-https://d.reddit.com
-https://samsungads.com
-https://samsung-com.112.2o7.net
-https://metrics.icloud.com
+0.0.0.0 www.static.media.net
+0.0.0.0 www.media.net
+0.0.0.0 www.adservetx.media.net
+0.0.0.0 www.doubleclick.net/
+0.0.0.0 www.ad.doubleclick.net/
+0.0.0.0 www.static.doubleclick.net
+0.0.0.0 www.m.doubleclick.net
+0.0.0.0 www.mediavisor.doubleclick.net
+0.0.0.0 www.media.fastclick.net/
+0.0.0.0 www.analyticsengine.s3.amazonaws.com
+0.0.0.0 www.affiliationjs.s3.amazonaws.com
+0.0.0.0 www.advertising-api-eu.amazon.com
+0.0.0.0 www.amazonclix.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.ssl.google-analytics.com
+0.0.0.0 www.hotjar.com
+0.0.0.0 www.static.hotjar.com
+0.0.0.0 www.a.mouseflow.com
+0.0.0.0 www.freshmarketer.com/
+0.0.0.0 www.cdn.luckyorange.com
+0.0.0.0 www.w1.luckyorange.com
+0.0.0.0 www.stats.wp.com
+0.0.0.0 www.api.bugsnag.com
+0.0.0.0 www.app.bugsnag.com
+0.0.0.0 www.browser.sentry-cdn.com
+0.0.0.0 www.app.getsentry.com
+0.0.0.0 www.advertising.twitter.com
+0.0.0.0 www.analytics.pointdrive.linkedin.com
+0.0.0.0 www.widgets.pinterest.com
+0.0.0.0 www.d.reddit.com
+0.0.0.0 www.samsungads.com
+0.0.0.0 www.samsung-com.112.2o7.net
+0.0.0.0 www.metrics.icloud.com
+
+0.0.0.0 static.media.net
+0.0.0.0 media.net
+0.0.0.0 adservetx.media.net
+0.0.0.0 doubleclick.net/
+0.0.0.0 ad.doubleclick.net/
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 media.fastclick.net/
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazonclix.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 hotjar.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 a.mouseflow.com
+0.0.0.0 freshmarketer.com/
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 stats.wp.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 d.reddit.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 metrics.icloud.com
