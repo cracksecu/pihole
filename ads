@@ -65,3 +65,12 @@
 0.0.0.0 samsungads.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metrics.icloud.com
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 stats.wp.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 metrics5.data.hicloud.com 
+0.0.0.0 
