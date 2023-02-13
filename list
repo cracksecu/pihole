@@ -195,6 +195,50 @@ baidu.com
 0.0.0.0 www.gamewith.net
 0.0.0.0 www.img.gamewith.net
 
+## ARD
+0.0.0.0 firebaseinstallations.googleapis.com (Google)
+0.0.0.0 de-config-preproduction.sensic.net (GfK SE: Tracking/Nutzeranalyse)
+0.0.0.0 firebase-settings.crashlytics.com (Google: Absturzberichte)
+0.0.0.0 app.adjust.com (Adjust GmbH: Tracking/Nutzeranalyse)
+0.0.0.0 api.ardmediathek.de (ARD)
+0.0.0.0 cdn-gl.imrworldwide.com (Nielsen Company LLC: Tracking/Nutzeranalyse)
+0.0.0.0 image.ard.de
+0.0.0.0 images.ardmediathek.de
+0.0.0.0 config.ioam.de 
+0.0.0.0 secure-eu.nmrodam.com
+
+## Tagesschau
+0.0.0.0 config.ioam.de
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 android.clients.google.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 app-measurement.com
+0.0.0.0 secure-eu.nmrodam.com
+
+## ZDF
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 mobile-data.onetrust.io
+0.0.0.0 android.clients.google.com
+0.0.0.0 config.ioam.de
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 secure-eu.nmrodam.com
+0.0.0.0 logs1407.xiti.com
+
+## ZDF Media
+
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 mobile-data.onetrust.io
+0.0.0.0 zdf-cdn.live.cellular.de
+0.0.0.0 api-settings.zdf.de
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 abgroup.zdf.de
+0.0.0.0 android.clients.google.com
+0.0.0.0 api.zdf.de
+0.0.0.0 secure-eu.nmrodam.com
+
+
+
+
 ######################################
 ## ENDE
 ######################################
